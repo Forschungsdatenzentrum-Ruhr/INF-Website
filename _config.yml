@@ -6,6 +6,6 @@ url: "https://hrahaus.github.io"
 
 header_pages:
   - index.md
-  - papers.md
+  - NFDI Consortia.md
   - data.md
   - packages.md
