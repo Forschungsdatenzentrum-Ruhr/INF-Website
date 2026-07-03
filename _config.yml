@@ -6,6 +6,6 @@ url: "https://forschungsdatenzentrum-ruhr.github.io"
 
 header_pages:
   - index.md
-  - NFDI Consortia.md
+  - consortia.md
   - data.md
   - packages.md
