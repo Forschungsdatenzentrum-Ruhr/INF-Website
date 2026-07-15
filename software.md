@@ -41,10 +41,10 @@ A user-friendly API for amortized Bayesian workflows
 A rich collection of neural network architectures
 Multi-backend support via Keras3: You can use PyTorch, TensorFlow, or JAX
 
-🔗 [More information](10.48550/arXiv.2602.07098)
+🔗 [More information]([10.48550/arXiv.2512.11599.](https://doi.org/10.48550/arXiv.2602.07098))
 
 
 ## SChangeBlock 
 R package that provides methods to detect structural changes in time series or random fields (spatial data). Focus is on the detection of abrupt changes or trends in independent data, but the package also provides a function to de-correlate data with dependence.
 
-🔗 [More information](10.48550/arXiv.2512.11599)
+🔗 [More information]([10.48550/arXiv.2512.11599](https://doi.org/10.48550/arXiv.2512.11599))
