@@ -1,6 +1,6 @@
 ---
 layout: page
-title: R Packages
+title: Software
 ---
 
 A collection of useful R packages for the TRR project.
