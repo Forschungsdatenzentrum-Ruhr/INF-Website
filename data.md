@@ -25,3 +25,10 @@ Georeferenced data on real estate listings in Germany.
 Socio-economic data aggregated at fine geographic grid level across Germany.
 
 🔗 [More information](https://www.rwi-essen.de/forschung-beratung/weitere/forschungsdatenzentrum-ruhr/datenangebot/rwi-geo-grid-socio-economic-data-on-grid-level)
+
+---
+
+## TUDOdata TRR 391 
+In collaboration with TU Dortmund, we provide a repository for the TRR 391 , integrated into TUDOdata:
+
+🔗 [More information](https://data.tu-dortmund.de/dataverse/trr391)
