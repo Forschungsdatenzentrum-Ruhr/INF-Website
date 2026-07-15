@@ -18,7 +18,7 @@ The National Research Data Infrastructure (NFDI) initiative in Germany brings to
 - Develop standards for data exchange and interoperability
 - Support researchers with tools and infrastructure for energy-related data
 
-[nfdi4energy.uol.de](https://nfdi4energy.uol.de/)  
+🔗 [More information](https://nfdi4energy.uol.de/)  
 Contact: [stephan.ferenz@uol.de](mailto:stephan.ferenz@uol.de)
 
 ---
@@ -32,7 +32,7 @@ Contact: [stephan.ferenz@uol.de](mailto:stephan.ferenz@uol.de)
 - Develop tools and standards for sustainable data use
 - Foster collaboration between researchers and institutions
 
-[nfdi4earth.de](https://www.nfdi4earth.de/)  
+🔗 [More information](https://www.nfdi4earth.de/)  
 Contact: [Helpdesk](https://www.nfdi4earth.de/helpdesk)
 
 ---
@@ -46,7 +46,7 @@ Contact: [Helpdesk](https://www.nfdi4earth.de/helpdesk)
 - Provide infrastructures for machine learning and AI research
 - Ensure transparency and reproducibility in data-driven research
 
-[nfdi4datascience.de](https://www.nfdi4datascience.de/)  
+🔗 [More information](https://www.nfdi4datascience.de/)  
 Contact: [christine.hennig@fokus.fraunhofer.de](mailto:christine.hennig@fokus.fraunhofer.de)
 
 ---
@@ -60,7 +60,7 @@ Contact: [christine.hennig@fokus.fraunhofer.de](mailto:christine.hennig@fokus.fr
 - Develop secure and legal data-sharing infrastructures
 - Enhance data literacy and research data management training
 
-[konsortswd.de](https://www.konsortswd.de/)  
+🔗 [More information](https://www.konsortswd.de/)  
 Contact: [bernhard.miller@gesis.org](mailto:bernhard.miller@gesis.org)
 
 ---
@@ -74,5 +74,5 @@ Contact: [bernhard.miller@gesis.org](mailto:bernhard.miller@gesis.org)
 - Develop community standards for mathematical research data
 - Enable open access and reproducibility in mathematical research
 
-[mardi4nfdi.de](https://www.mardi4nfdi.de/about/mission)  
+🔗 [More information](https://www.mardi4nfdi.de/about/mission)  
 Contact: [bacher@mardi4nfdi.de](mailto:bacher@mardi4nfdi.de)
